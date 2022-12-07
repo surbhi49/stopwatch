@@ -1,0 +1,23 @@
+.buttons{
+     line-height: 1.2em;
+     text-align: center;
+     font-size: 30px;
+}
+
+#pauseTimer{
+     background: blue;
+border: 1px solid green;
+border-radius: 10px;
+color: white;
+}
+#startTimer{
+     background: green;
+border: 1px solid red;
+border-radius: 10px;
+color: white;
+}
+h2{
+     text-align: center;
+font-family:sans-serif;
+}
+
